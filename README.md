@@ -1,10 +1,10 @@
 # 💫 About Me:
 AWS & DevOps Enthusiast 🚀 | Sharing my journey of learning & projects.
-☁️ Passionate about AWS & DevOps tools.
-⚙️ Hands-on experience with AWS, Terraform, Docker, Kubernetes & CI/CD.
-🐧 Strong knowledge of Linux & Shell Scripting.
-🚀 Love building real-world infrastructure & automation projects.
-📚 Continuous learner, focused on Cloud & DevOps best practices.
+- ☁️ Passionate about AWS & DevOps tools.
+- ⚙️ Hands-on experience with AWS, Terraform, Docker, Kubernetes & CI/CD.
+- 🐧 Strong knowledge of Linux & Shell Scripting.
+- 🚀 Love building real-world infrastructure & automation projects.
+- 📚 Continuous learner, focused on Cloud & DevOps best practices.
 
 
 
